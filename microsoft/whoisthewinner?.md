@@ -1,7 +1,7 @@
 ### TC-> O(n)
 ### SC-> O(n)
 
-###Solution
+### Solution
 ```cpp
 class Node{
     public:
@@ -52,4 +52,6 @@ public:
 ```
 
 ###Screenshots
+![Q2](https://github.com/user-attachments/assets/7dc858f3-5bab-49f7-99f1-fc378b733de5)
+![2](https://github.com/user-attachments/assets/868d1532-66ad-405b-b07e-60ccf3d0569d)
 
